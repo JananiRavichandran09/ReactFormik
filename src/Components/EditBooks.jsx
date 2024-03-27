@@ -249,6 +249,7 @@ const EditBooks = ({ id }) => {
               border: "none",
               padding: "10px",
               margin: "5px",
+              marginBottom: "10px",
             }}
           >
             Update
